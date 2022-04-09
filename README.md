@@ -1,6 +1,6 @@
 ### 🚪 `AJAr` — `A`aron `J`. `Ar`tille
 
-I'm a solutions architect and software engineer living in Brooklyn, NY.
+I'm a software &amp; data engineer in _~~🗽 NYC~~_ / _~~🌉 Minneapolis~~_ / 🌴**St. Pete, FL**.
 
 ![image](https://user-images.githubusercontent.com/612499/134766803-9d5de389-ec56-413c-949c-42f6ef09cdc6.png)
 
