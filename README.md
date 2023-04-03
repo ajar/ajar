@@ -1,6 +1,6 @@
 ### 🚪 `AJAr` — `A`aron `J`. `Ar`tille
 
-~~💛 Pittsburgh~~ / _~~🗽 NYC~~_ / _~~🌉 Minneapolis~~_ / ~~🌴 Tampa Bay~~ / 🍻 **Asheville**, NC
+~~💛 Pittsburgh~~ / _~~🗽 NYC~~_ / _~~🌉 Minneapolis~~_ / ~~🌴 Tampa Bay~~ / 💙 Hartford
 
 ![image](https://user-images.githubusercontent.com/612499/134766803-9d5de389-ec56-413c-949c-42f6ef09cdc6.png)
 
