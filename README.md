@@ -6,14 +6,13 @@
 
 #### Contacts & Profiles
 
-- 👾 Discord: [`AJAr#0001`](https://discordapp.com/users/254277765312806912)
+- 👾 Discord: [`@aaror`](https://discordapp.com/users/254277765312806912)
 - 🧳 LinkedIn: [in/ajar](https://www.linkedin.com/in/ajar)
 - 👨🏻‍💻 Stack Exchange: [AJAr](https://security.stackexchange.com/users/67475/ajar) 
 - 👽 reddit: [u/AaronArtille](https://www.reddit.com/u/AaronArtille)
 - 🍊 Twitter: [@AaronArtille](https://www.twitter.com/AaronArtille)
 - 💘 OkCupid: [Simping69](https://www.youtube.com/watch?v=eBGIQ7ZuuiU)
 - 🔐 Keybase: [ajar](https://www.keybase.io/ajar)
-- 🎨 Ello: [@ajar](https://ello.co/ajar)
 
 #### PGP Public Key 🤫
 <details>
